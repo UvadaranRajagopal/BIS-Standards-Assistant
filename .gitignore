@@ -1,0 +1,41 @@
+# Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+dist/
+build/
+
+# Local databases / vector stores
+chroma_db/
+chroma/
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+audit_log.jsonl
+audit_log_test_backup.jsonl
+
+# Temporary development folders
+backend_temp/
+frontend_temp/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db

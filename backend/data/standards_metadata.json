@@ -1,0 +1,1625 @@
+[
+  {
+    "is_number": "IS 269:2015",
+    "title": "Ordinary portland cement - Specification (Sixth Revision)",
+    "year": 2015,
+    "status": "Current",
+    "scope": null,
+    "amendments": [
+      {
+        "number": 1,
+        "year": null,
+        "title": null
+      }
+    ],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MTEx",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 456:2000",
+    "title": "Plain and reinforced concrete - Code of practice (Fourth Revision)",
+    "year": 2000,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails_mnd/9011",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 1786:2008",
+    "title": "High Strength Deformed Steel Bars and Wires for Concrete Reinforcement - Specification (Fourth Revision)",
+    "year": 2008,
+    "status": "Current",
+    "scope": null,
+    "amendments": [
+      {
+        "number": 1,
+        "year": null,
+        "title": null
+      },
+      {
+        "number": 2,
+        "year": null,
+        "title": null
+      },
+      {
+        "number": 3,
+        "year": null,
+        "title": null
+      },
+      {
+        "number": 4,
+        "year": null,
+        "title": null
+      }
+    ],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=ODE5NQ==",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 2062:2011",
+    "title": "Hot rolled medium and high tensile structural steel - Specification (Seventh Revision)",
+    "year": 2011,
+    "status": "Current",
+    "scope": null,
+    "amendments": [
+      {
+        "number": 1,
+        "year": null,
+        "title": null
+      }
+    ],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=ODYwMg==",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 10262:2019",
+    "title": "Concrete Mix Proportioning — Guidelines ( Second Revision )",
+    "year": 2019,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [
+        "IS 3812 (Part 1):2013",
+        "IS 1489 (Part 1):2015",
+        "IS 1489 (Part 2):2015",
+        "IS 15388:2003",
+        "IS 2386 (Part 3):1963",
+        "IS 2692:1989",
+        "IS 3832:2005",
+        "IS 455:2015",
+        "IS 456:2000",
+        "IS 4926:2003",
+        "IS 9103:1999",
+        "IS 4246:2025",
+        "IS 4264:2023"
+      ],
+      "referred_in_following_standards": [
+        "SP 23 : 1982",
+        "IS 5892 : 2004",
+        "IS 10262 : 2019",
+        "IS 17452 : 2020",
+        "IS/ISO 26262 : Part 10 : 2018"
+      ]
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MTA4Mw==",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 383:2016",
+    "title": "Coarse and Fine Aggregate for Concrete - Specification (Third Revision)",
+    "year": 2016,
+    "status": "Current",
+    "scope": null,
+    "amendments": [
+      {
+        "number": 1,
+        "year": null,
+        "title": null
+      },
+      {
+        "number": 2,
+        "year": null,
+        "title": null
+      }
+    ],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MTA0MjU=",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 10500:2012",
+    "title": "Drinking Water - Specification (Second Revision)",
+    "year": 2012,
+    "status": "Current",
+    "scope": null,
+    "amendments": [
+      {
+        "number": 1,
+        "year": null,
+        "title": null
+      },
+      {
+        "number": 2,
+        "year": null,
+        "title": null
+      },
+      {
+        "number": 3,
+        "year": null,
+        "title": null
+      },
+      {
+        "number": 4,
+        "year": null,
+        "title": null
+      }
+    ],
+    "certification": {
+      "applicable": true,
+      "details": "Voluntary Certification",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MTMzMw==",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 694:2010",
+    "title": "Polyvinyl chloride insulated unsheathed and sheathed cables/cords with rigid and flexible conductor for rated voltages up to and including 1 100 V (Fourth Revision)",
+    "year": 2010,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MTM4Mjk=",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 432 (Part 1) : 1982",
+    "title": "Specification for Mild Steel and Medium Tensile Steel Bars and Hard-Drawn Steel Wire for Concrete Reinforcement: Part 1 Mild Steel and Medium Tensile Steel Bars (Third revision)",
+    "year": 1982,
+    "status": "Current",
+    "scope": null,
+    "amendments": [
+      {
+        "number": 1,
+        "year": null,
+        "title": null
+      },
+      {
+        "number": 2,
+        "year": null,
+        "title": null
+      }
+    ],
+    "certification": {
+      "applicable": true,
+      "details": "Voluntary Certification",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MTA5NTA=",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 2502:1963",
+    "title": "Code of Practice for Bending and Fixing of Bars for Concrete Reinforcement",
+    "year": 1963,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "None",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [
+        "IS 432 (Part 1):2026",
+        "IS 432 (Part 2):1982",
+        "IS 315:1951",
+        "IS 1139:1966",
+        "IS 1786:2008"
+      ],
+      "referred_in_following_standards": [
+        "IS 4995 : Part 2 : 1974",
+        "IS 10440 : 1983",
+        "IS 4623 : 2000",
+        "IS 5525 : 1969",
+        "SP 34 : 1987",
+        "IS 456 : 2000",
+        "IS 5613 : Part 3 : Sec 2 : 1989"
+      ]
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails_mnd/9011",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 2190:2024",
+    "title": "Selection, Installation and Maintenance of First-Aid Fire Extinguishers - Portable and Mobile - Code of Practice (Fifth Revision)",
+    "year": 2024,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MzIyMDU=",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 3844:1989",
+    "title": "Code of practice for installation and maintenance of internal fire hydrants and hose reels on premises (First Revision)",
+    "year": 1989,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MTA0NDU=",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 15328:2003",
+    "title": "Unplasticized Non-Pressure Polyvinyl Chloride (PVC-U) Pipes for Use in Underground Drainage and Sewerage Systems - Specification",
+    "year": 2003,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails/MjI3MTU=",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS/IEC 62368: Part 1: 2023",
+    "title": "Audio/Video, Information and Communication Technology Equipment – Part 1 Safety Requirements",
+    "year": 2023,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Compulsory Registration Scheme (CRS) for specified product categories",
+      "qco": false,
+      "crs": true
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 302 (Part 2/Sec 25)",
+    "title": "Safety of household and similar electrical appliances: Part 2 Particular requirements: Section 25 Microwave ovens",
+    "year": null,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Compulsory Registration Scheme (CRS) – Microwave Ovens",
+      "qco": false,
+      "crs": true
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 16242 (Part 1):2014",
+    "title": "General and Safety Requirements for UPS",
+    "year": 2014,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Compulsory Registration Scheme (CRS) – UPS/Inverters",
+      "qco": false,
+      "crs": true
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 16102 (Part 1): 2012",
+    "title": "Self-Ballasted LED Lamps for General Lighting Services Part 1 Safety Requirements",
+    "year": 2012,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Compulsory Registration Scheme (CRS) – Self-Ballasted LED Lamps",
+      "qco": false,
+      "crs": true
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 10322 (Part 5/Section 1): 2012",
+    "title": "Luminaires Part 5: Particular Requirements Section 2 Recessed Luminaires",
+    "year": 2012,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Compulsory Registration Scheme (CRS) – Recessed LED Luminaries",
+      "qco": false,
+      "crs": true
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-ii-registration-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 15908:2021",
+    "title": "Selection installation and maintenance of control and indicating equipments for fire detection and alarm system - Code of Practice First Revision",
+    "year": 2021,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MjU4MDA=",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 2571:1970",
+    "title": "Code of practice for laying in - Situ cement concrete flooring (First Revision)",
+    "year": 1970,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "None",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [
+        "IS 2:2022",
+        "IS 269:2015",
+        "IS 455:2015",
+        "IS 1489 (Part 1):2015",
+        "IS 1489 (Part 2):2015",
+        "IS 383:2016",
+        "IS 2386 (Part 4):1963",
+        "IS 456:2000",
+        "IS 702:2022",
+        "IS 1609:1991"
+      ],
+      "referred_in_following_standards": [
+        "IS 6027 : 1970",
+        "IS 4971 : 2007",
+        "IS 5491 : 1969",
+        "IS 1198 : 1982",
+        "IS 7956 : 1975",
+        "IS 6061 : Part 3 : 1981",
+        "IS 4772 : 2019"
+      ]
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/knowyourstandards/Indian_standards/isdetails_mnd/9095",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 12330",
+    "title": "Sulphate Resisting Portland Cement",
+    "year": null,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under Cement (Quality Control) Order, 2003",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 1489 (Part 1)",
+    "title": "Portland Pozzolana Cement-Part1 Fly-ash based",
+    "year": null,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under Cement (Quality Control) Order, 2003",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 455",
+    "title": "Portland Slag Cement",
+    "year": null,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under Cement (Quality Control) Order, 2003",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 302 (Part 2/Sec 3)",
+    "title": "Safety of household and similar electrical appliances – Electric iron",
+    "year": null,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under Electrical Wires, Cables, Appliances and Protection Devices and Accessories (Quality Control) Order, 2003",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 3854",
+    "title": "Switches for domestic and similar purposes",
+    "year": null,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under Electrical Wires, Cables, Appliances and Protection Devices and Accessories (Quality Control) Order, 2003",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 1785 (Part 1) : 1983",
+    "title": "Plain Hard-drawn Steel Wire For Pre-stressed Concrete: Part 1 Cold Drawn Stress-relieved Wire",
+    "year": 1983,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under Steel and Steel Products (Quality Control) Order, 2020 (with amendments)",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 6003:2010",
+    "title": "Indented wire for Pre-stressed concrete",
+    "year": 2010,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under Steel and Steel Products (Quality Control) Order, 2020",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 13620:1993",
+    "title": "Fusion bonded epoxy coated reinforcing bars",
+    "year": 1993,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under Steel and Steel Products (Quality Control) Order, 2020",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.bis.gov.in/product-certification/products-under-compulsory-certification/scheme-i-mark-scheme/?lang=en",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-05"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 732:2019",
+    "title": "Code of practice for electrical wiring installations (Fourth Revision)",
+    "year": 2019,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 3043:2018",
+    "title": "Code of practice for earthing (Second Revision)",
+    "year": 2018,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 1293:2019",
+    "title": "Plugs and Socket-Outlets for Household and Similar Purposes of Rated Voltage up to and Including 250 V and Rated Current up to and Including 16 A - Specification (Fourth Revision)",
+    "year": 2019,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under applicable electrical Quality Control requirements",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 12640 (Part 1):2024",
+    "title": "Residual current operated circuit-breakers without integral overcurrent protection for household and similar uses (RCCBs): Part 1 General Rules (Third Revision)",
+    "year": 2024,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under Electrical Wires, Cables, Appliances and Protection Devices and Accessories (Quality Control) Order, 2003",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/ISL/is_details?IDS=MjU0ODU%3D",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 302 (Part 1):2024",
+    "title": "Household and Similar Electrical Appliances — Safety Part 1 General Requirements (Seventh Revision)",
+    "year": 2024,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under applicable Electrical Appliances Quality Control requirements",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [
+        "IS 15999: Part 1: 2021",
+        "IS 9206:1979",
+        "IS 616:2017"
+      ],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=MzE5MDE%3D",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 7098 (Part 1):2025",
+    "title": "Crosslinked Polyethylene Insulated Thermoplastic Sheathed Cables - Specification Part 1 For Working Voltages up to and Including 1 100 Volts (Second Revision)",
+    "year": 2025,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under applicable cable Quality Control requirements",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 7098 (Part 2):2011",
+    "title": "Crosslinked polyethylene insulated thermoplastic sheathed cables - Specification: Part 2 for working voltages from 3.3 kV up to and including 33 kV (Second Revision)",
+    "year": 2011,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under applicable cable Quality Control requirements",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 7098 (Part 3):1993",
+    "title": "Cross-linked polyethylene insulated thermoplastic sheathed cables - Specification: Part 3 for working voltages from 66 kV up to and including 220 kV",
+    "year": 1993,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": true,
+      "details": "Mandatory Certification under applicable cable Quality Control requirements",
+      "qco": true,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 9968 (Part 1):1988",
+    "title": "Specification for elastomer insulated cables: Part 1 for working voltages up to and including 1 100 volts (First Revision)",
+    "year": 1988,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 1258:2024",
+    "title": "Bayonet lampholders (Fifth Revision)",
+    "year": 2024,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 10276:2024",
+    "title": "Edison Screw Lampholders (First Revision)",
+    "year": 2024,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 1391 (Part 1):2023",
+    "title": "Room Air Conditioners Specification Part 1 Unitary Air Conditioners (Fourth Revision)",
+    "year": 2023,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 1391 (Part 2):2023",
+    "title": "Room Air Conditioners Specification Part 2 Split Air Conditioners (Fourth Revision)",
+    "year": 2023,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 3315:2024",
+    "title": "Direct Evaporative Air Cooler — Specification (Fourth Revision)",
+    "year": 2024,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 8034:2018",
+    "title": "Submersible pumpsets - Specification (Third Revision)",
+    "year": 2018,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 9079:2018",
+    "title": "Monoset pumps for clear, cold water for agricultural and water supply purposes - Specification (Third Revision)",
+    "year": 2018,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 875 (Part 1):1987",
+    "title": "Code of practice for design loads (other than earthquake) for buildings and structures: Part 1 dead loads - Unit weights of building materials and stored materials (Second Revision)",
+    "year": 1987,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=NjIyNg%3D%3D",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 875 (Part 2):1987",
+    "title": "Code of practice for design loads (other than earthquake) for buildings and structures: Part 2 imposed loads (Second Revision)",
+    "year": 1987,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=NjIyNg%3D%3D",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 875 (Part 3):2015",
+    "title": "Design Loads (Other than Earthquake) for Buildings and Structures - Code of Practice Part 3 Wind Loads (Third Revision)",
+    "year": 2015,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=NjIyNg%3D%3D",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 875 (Part 4):1987",
+    "title": "Code of practice for design loads (other than earthquake) for buildings and structures: Part 4 snow loads (Second Revision)",
+    "year": 1987,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=NjIyNg%3D%3D",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 875 (Part 5):1987",
+    "title": "Design loads (other than earthquake) for buildings and structures - Code of practice for Part 5 special loads and load combinations (Second Revision)",
+    "year": 1987,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": "https://www.services.bis.gov.in/php/BIS_2.0/bisconnect/standard_review/Standard_review/Isdetails?ID=NjIyNg%3D%3D",
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": []
+  },
+  {
+    "is_number": "IS 800:2007",
+    "title": "General construction in steel - Code of practice (Third Revision)",
+    "year": 2007,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 1343:2012",
+    "title": "Prestressed Concrete — Code of Practice",
+    "year": 2012,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 1080:1985",
+    "title": "Code of practice for design and construction of shallow foundations in soils (Other Than Raft, Ring And Shell) (Second Revision)",
+    "year": 1985,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 1904:1986",
+    "title": "Code of practice for design and construction of foundations in soils: general requirements (Third Revision)",
+    "year": 1986,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 6403:1981",
+    "title": "Code of practice for determination of bearing capacity of shallow foundations",
+    "year": 1981,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 2189:2008",
+    "title": "Selection, installation and maintenance of automatic fire detection and alarm system code of practice (Fourth Revision)",
+    "year": 2008,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 3614:2021",
+    "title": "Fire Doors and Doorsets - Specification (First Revision)",
+    "year": 2021,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 12459:2024",
+    "title": "Fire Safety in Cable Runs — Code of Practice (First Revision)",
+    "year": 2024,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 3034:1993",
+    "title": "Fire Safety of Industrial Buildings: Electrical Generating and Distributing Stations - Code of Practice (Second Revision)",
+    "year": 1993,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 3594:2024",
+    "title": "Fire Safety of General Storage and Warehousing Including Cold Storages - Code of Practice (Second Revision)",
+    "year": 2024,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": false,
+      "details": "Not Certifiable",
+      "qco": false,
+      "crs": false
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  },
+  {
+    "is_number": "IS 4246:2025",
+    "title": "Domestic Gas Stove and Built in Hob for Use with LPG - Specification (Sixth Revision)",
+    "year": 2025,
+    "status": "Current",
+    "scope": null,
+    "amendments": [],
+    "certification": {
+      "applicable": null,
+      "details": null,
+      "qco": null,
+      "crs": null
+    },
+    "relationships": {
+      "referred_indian_standards": [],
+      "referred_in_following_standards": []
+    },
+    "bis_source": {
+      "official_url": null,
+      "source_type": "Official BIS",
+      "last_verified": "2026-09-14"
+    },
+    "flags": [
+      "certification_metadata_review_required"
+    ]
+  }
+]
